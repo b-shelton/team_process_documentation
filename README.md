@@ -1,6 +1,6 @@
 # Team Processes
 
-This repository contains documentation for processes that have been successfully deployed on the data science and analytics teams led by Brandon Shelton.
+This repository contains documentation for processes that have been successfully deployed on the Data Science and Business Insights teams led by Brandon Shelton.
 
 - [Data Science Lifecycle](https://github.com/b-shelton/team_processes/blob/master/data_science_lifecycle.md): The process used by the Data Science team to deliver predictive model products to our customers.
 
