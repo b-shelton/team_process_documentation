@@ -1,6 +1,6 @@
 # The Data Science Lifecycle
 
-The phases described below are combined to create the roadmap process that our Data Science team uses for product delivery. Although all projects are different, the outlined process is general enough to be applicable in most situations. Additionally, the lifecycle is presented below in a linear fashion, but the actual work takes place iteratively, often bouncing back and forth from one section to another. The entire (scrollable) process can be found [here](https://github.com/b-shelton/team_processes/blob/master/files/images/ds_lifecycle.jpg).
+The phases described below are combined to create the roadmap process that our Data Science team uses for product delivery. Although all projects are different, the outlined process is general enough to be applicable in most situations. Additionally, the lifecycle is presented below in a linear fashion, but the actual work takes place iteratively, often bouncing back and forth from one section to another. The entire (scrollable) process can be found [here](https://github.com/b-shelton/team_processes/blob/master/files/images/ds_lifecycle.jpg) and a downloadable Visio version can be found [here](https://github.com/b-shelton/team_processes/blob/master/files/ds_lifecycle.vsd).
 
 
 ![alt text](https://github.com/b-shelton/team_processes/blob/master/files/images/dsl_ideation.png)
