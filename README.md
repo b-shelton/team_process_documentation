@@ -9,3 +9,6 @@ This repository contains documentation for processes that have been successfully
 - [Code Review Process](https://github.com/b-shelton/team_processes/blob/master/code_review.md): Description of the code review processes created, deployed, and enforced for the team.
 
 - [Basic Git Commands](https://github.com/b-shelton/team_processes/blob/master/basic_git_commands.md): Listing of basic, heavily used Git commands to effectively communicate between remote and local repositories.
+
+
+_*For examples of technical abilities, please visit that repository [here](https://github.com/b-shelton/technical_examples).*_
