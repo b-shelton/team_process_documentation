@@ -11,4 +11,4 @@ This repository contains documentation for processes that have been successfully
 - [Basic Git Commands](https://github.com/b-shelton/team_processes/blob/master/basic_git_commands.md): Listing of basic, heavily used Git commands to effectively communicate between remote and local repositories.
 
 
-_*For examples of technical abilities, please visit that repository [here](https://github.com/b-shelton/technical_examples#technical_examples).*_
+_*For examples of technical abilities, please visit that repository [here](https://github.com/b-shelton/technical_examples#technical-examples).*_
