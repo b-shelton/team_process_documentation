@@ -4,6 +4,8 @@ This repository contains documentation for processes that have been successfully
 
 - [Data Science Lifecycle](https://github.com/b-shelton/team_processes/blob/master/data_science_lifecycle.md): The process used by the Data Science team to deliver predictive model products to our customers.
 
+- [Data Science Platform Overview](https://github.com/b-shelton/team_processes/blob/master/data_science_platform.pdf): Presentation on the need, delpoyment, and benefits of a data science platform.
+
 - [Git Overview](https://github.com/b-shelton/team_processes/blob/master/git_overview.md): High-level overview of how team members are expected to engage with GitHub and Git.
 
 - [Code Review Process](https://github.com/b-shelton/team_processes/blob/master/code_review.md): Description of the code review processes created, deployed, and enforced for the team.
